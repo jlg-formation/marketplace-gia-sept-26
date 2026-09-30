@@ -1,6 +1,6 @@
 ---
 name: hello-world
-description: A simple hello world skill. USE WHEN l'utilisateur ecrit dans la console de chat "hello" dans une phrase quelconque.
+description: A simple hello world skill. USE WHEN l'utilisateur ecrit dans la console de chat "helloxxx" dans une phrase quelconque.
 ---
 
 

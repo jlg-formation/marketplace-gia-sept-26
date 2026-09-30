@@ -1,7 +1,7 @@
 {
 	"$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
 	"name": "worldline5",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Skills de démonstration : hello-world et count-lines (comptage des lignes de code).",
 	"author": {
 		"name": "Jean-Louis GUENEGO",
