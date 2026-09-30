@@ -1,0 +1,19 @@
+{
+  "name": "marketplace-gia-sept-26",
+  "owner": {
+    "name": "Jean-Louis GUENEGO",
+    "email": "jlguenego@gmail.com"
+  },
+  "metadata": {
+    "description": "Marketplace de plugins pour GitHub Copilot (formation GIA sept. 2026).",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "worldline5",
+      "description": "Skills de démonstration : hello-world et count-lines (comptage des lignes de code).",
+      "version": "1.0.0",
+      "source": "./worldline5"
+    }
+  ]
+}
